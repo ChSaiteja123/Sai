@@ -189,6 +189,349 @@ Career Goal:
 - 📈 Monitoring Stack (Prometheus + Grafana)
 
 ---
+# 🚀 DevOps Journey
+
+```text
+ Linux
+    │
+    ▼
+ Git & GitHub
+    │
+    ▼
+ Docker
+    │
+    ▼
+ Jenkins & GitHub Actions
+    │
+    ▼
+ Terraform (IaC)
+    │
+    ▼
+ AWS Cloud
+    │
+    ▼
+ Kubernetes (EKS)
+    │
+    ▼
+ ArgoCD (GitOps)
+    │
+    ▼
+ Monitoring & Observability
+```
+
+---
+
+# 🌟 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+## ☁ AWS Infrastructure Automation
+
+🏗 Build complete AWS infrastructure using Terraform
+
+✨ Features
+
+- VPC
+- Public & Private Subnets
+- Internet Gateway
+- NAT Gateway
+- EC2
+- Security Groups
+- Auto Scaling
+- Load Balancer
+
+**Tech Stack**
+
+AWS • Terraform • Linux
+
+</td>
+
+<td width="50%">
+
+## 🐳 Dockerized Applications
+
+Containerized applications with production-ready Dockerfiles.
+
+✔ Multi-stage Docker Builds
+
+✔ Docker Compose
+
+✔ Persistent Volumes
+
+✔ Networking
+
+✔ Docker Hub
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## ☸ Kubernetes Deployment
+
+Deploy scalable applications on Kubernetes.
+
+Features
+
+- Deployments
+- Services
+- Ingress
+- ConfigMaps
+- Secrets
+- HPA
+- Rolling Updates
+
+</td>
+
+<td width="50%">
+
+## ⚙ CI/CD Pipeline
+
+Automated CI/CD pipeline.
+
+GitHub → Jenkins → Docker → Kubernetes
+
+✔ Automatic Testing
+
+✔ Image Build
+
+✔ Push to Registry
+
+✔ Deploy
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🌍 GitOps with ArgoCD
+
+Continuous Delivery using GitOps.
+
+✔ Auto Sync
+
+✔ Rollbacks
+
+✔ Self Healing
+
+✔ Declarative Deployment
+
+</td>
+
+<td width="50%">
+
+## 📊 Monitoring Stack
+
+Production Monitoring
+
+Prometheus
+
+Grafana
+
+Alert Manager
+
+Node Exporter
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 💻 Technical Skills
+
+## ☁ Cloud
+
+AWS
+
+⭐⭐⭐⭐☆
+
+---
+
+## 🐳 Containers
+
+Docker
+
+Docker Compose
+
+Kubernetes
+
+⭐⭐⭐⭐☆
+
+---
+
+## ⚙ Infrastructure as Code
+
+Terraform
+
+⭐⭐⭐⭐☆
+
+Ansible
+
+⭐⭐⭐⭐☆
+
+---
+
+## 🚀 CI/CD
+
+Jenkins
+
+GitHub Actions
+
+⭐⭐⭐⭐☆
+
+---
+
+## 💻 Operating Systems
+
+Linux
+
+Ubuntu
+
+Amazon Linux
+
+⭐⭐⭐⭐☆
+
+---
+
+## 📈 Monitoring
+
+Prometheus
+
+Grafana
+
+⭐⭐⭐☆☆
+
+---
+
+## 🔥 Version Control
+
+Git
+
+GitHub
+
+⭐⭐⭐⭐☆
+
+---
+
+# 🏗 DevOps Architecture
+
+```text
+                👨‍💻 Developer
+
+                     │
+
+              GitHub Repository
+
+                     │
+
+           GitHub Actions / Jenkins
+
+                     │
+
+              Build Docker Image
+
+                     │
+
+                Docker Registry
+
+                     │
+
+          Terraform Infrastructure
+
+                     │
+
+             Amazon EKS Cluster
+
+                     │
+
+                 ArgoCD
+
+                     │
+
+             Production Deploy
+
+                     │
+
+         Prometheus + Grafana
+```
+
+---
+
+# 🎯 Current Focus
+
+🚀 AWS Cloud Infrastructure
+
+☸ Kubernetes Administration
+
+⚙ Terraform Modules
+
+🔄 GitOps (ArgoCD)
+
+📊 Monitoring & Observability
+
+🔐 DevSecOps Best Practices
+
+---
+
+# 📚 Learning Roadmap
+
+```text
+✔ Linux
+
+✔ Git
+
+✔ Docker
+
+✔ Jenkins
+
+✔ Terraform
+
+✔ AWS
+
+✔ Kubernetes
+
+🔄 Helm
+
+🔄 ArgoCD
+
+🔄 Prometheus
+
+🔄 Grafana
+
+🔄 DevSecOps
+```
+
+---
+
+# 🌟 What I Bring
+
+✅ Infrastructure as Code (Terraform)
+
+✅ CI/CD Pipeline Automation
+
+✅ Cloud Infrastructure (AWS)
+
+✅ Docker & Kubernetes
+
+✅ Linux Administration
+
+✅ GitOps Practices
+
+✅ Automation Mindset
+
+✅ Continuous Learning
 
 # 📬 Connect
 
