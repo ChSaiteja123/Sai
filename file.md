@@ -243,7 +243,6 @@ Career Goal:
 
 ---
 
-# 🌟 Featured Projects
 
 <table>
 <tr>
