@@ -24,7 +24,7 @@ h1 {
   font-weight: bold !important;
 }
 
-/* Specific section colors */
+/* Specific section colors 
 h1:nth-of-type(2) { background: linear-gradient(135deg, #1e40af 0%, #1e3a8a 100%); }
 h1:nth-of-type(3) { background: linear-gradient(135deg, #7c3aed 0%, #5b21b6 100%); }
 h1:nth-of-type(4) { background: linear-gradient(135deg, #0891b2 0%, #06b6d4 100%); }
@@ -47,7 +47,7 @@ h1:nth-of-type(20) { background: linear-gradient(135deg, #06b6d4 0%, #0891b2 100
 h1:nth-of-type(21) { background: linear-gradient(135deg, #ec4899 0%, #be185d 100%); }
 h1:nth-of-type(22) { background: linear-gradient(135deg, #7c3aed 0%, #6d28d9 100%); }
 
-/* Info cards */
+Info cards */
 .info-card {
   border-left: 4px solid #00d4ff;
   padding: 15px;
