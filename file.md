@@ -15,6 +15,39 @@
 ---
 
 <style>
+/* Main heading backgrounds with gradient colors */
+h1 { 
+  padding: 15px 20px !important;
+  border-radius: 8px !important;
+  margin-top: 25px !important;
+  color: #ffffff !important;
+  font-weight: bold !important;
+}
+
+/* Specific section colors */
+h1:nth-of-type(2) { background: linear-gradient(135deg, #1e40af 0%, #1e3a8a 100%); }
+h1:nth-of-type(3) { background: linear-gradient(135deg, #7c3aed 0%, #5b21b6 100%); }
+h1:nth-of-type(4) { background: linear-gradient(135deg, #0891b2 0%, #06b6d4 100%); }
+h1:nth-of-type(5) { background: linear-gradient(135deg, #059669 0%, #10b981 100%); }
+h1:nth-of-type(6) { background: linear-gradient(135deg, #1f2937 0%, #111827 100%); }
+h1:nth-of-type(7) { background: linear-gradient(135deg, #374151 0%, #1f2937 100%); }
+h1:nth-of-type(8) { background: linear-gradient(135deg, #6b7280 0%, #4b5563 100%); }
+h1:nth-of-type(9) { background: linear-gradient(135deg, #d97706 0%, #b45309 100%); }
+h1:nth-of-type(10) { background: linear-gradient(135deg, #059669 0%, #047857 100%); }
+h1:nth-of-type(11) { background: linear-gradient(135deg, #7c3aed 0%, #6d28d9 100%); }
+h1:nth-of-type(12) { background: linear-gradient(135deg, #dc2626 0%, #991b1b 100%); }
+h1:nth-of-type(13) { background: linear-gradient(135deg, #0891b2 0%, #0369a1 100%); }
+h1:nth-of-type(14) { background: linear-gradient(135deg, #4f46e5 0%, #4338ca 100%); }
+h1:nth-of-type(15) { background: linear-gradient(135deg, #0d9488 0%, #0f766e 100%); }
+h1:nth-of-type(16) { background: linear-gradient(135deg, #be123c 0%, #9f1239 100%); }
+h1:nth-of-type(17) { background: linear-gradient(135deg, #0284c7 0%, #0369a1 100%); }
+h1:nth-of-type(18) { background: linear-gradient(135deg, #475569 0%, #334155 100%); }
+h1:nth-of-type(19) { background: linear-gradient(135deg, #b45309 0%, #92400e 100%); }
+h1:nth-of-type(20) { background: linear-gradient(135deg, #06b6d4 0%, #0891b2 100%); }
+h1:nth-of-type(21) { background: linear-gradient(135deg, #ec4899 0%, #be185d 100%); }
+h1:nth-of-type(22) { background: linear-gradient(135deg, #7c3aed 0%, #6d28d9 100%); }
+
+/* Info cards */
 .info-card {
   border-left: 4px solid #00d4ff;
   padding: 15px;
@@ -26,6 +59,47 @@
 .highlight {
   color: #00d4ff;
   font-weight: bold;
+}
+
+/* Table styling */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 15px 0;
+}
+
+table tr:nth-child(odd) {
+  background-color: rgba(0, 212, 255, 0.08);
+}
+
+table tr:nth-child(even) {
+  background-color: rgba(255, 0, 110, 0.05);
+}
+
+table td, table th {
+  padding: 12px;
+  border: 1px solid rgba(0, 212, 255, 0.2);
+}
+
+/* Details styling */
+details {
+  background: linear-gradient(135deg, rgba(102,126,234,0.1) 0%, rgba(118,75,162,0.1) 100%);
+  padding: 15px;
+  border-radius: 8px;
+  border-left: 4px solid #667eea;
+  margin: 10px 0;
+}
+
+details summary {
+  cursor: pointer;
+  font-weight: bold;
+  color: #667eea;
+  transition: all 0.3s ease;
+}
+
+details summary:hover {
+  color: #764ba2;
+  transform: translateX(5px);
 }
 </style>
 
@@ -222,19 +296,23 @@ Career Goal:
 
 ---
 
-# 🛠 Featured Skills
+# 🛠️ Core Competencies
 
-| Category | Technologies |
-|----------|-------------|
-| Cloud | AWS |
-| Containers | Docker, Kubernetes |
-| IaC | Terraform |
-| Configuration | Ansible |
-| CI/CD | Jenkins, GitHub Actions |
-| Monitoring | Prometheus, Grafana |
-| Version Control | Git, GitHub |
-| OS | Linux |
-| Scripting | Bash, Python |
+<div align="center">
+
+| Category | Technologies | Proficiency |
+|:---:|:---|:---:|
+| ☁️ Cloud | AWS (EC2, S3, VPC, RDS, ECS, EKS) | ⭐⭐⭐⭐⭐ |
+| 🐳 Containers | Docker, Kubernetes, Docker Compose | ⭐⭐⭐⭐⭐ |
+| 🏗️ IaC | Terraform, CloudFormation | ⭐⭐⭐⭐⭐ |
+| ⚙️ Configuration | Ansible, Chef | ⭐⭐⭐⭐☆ |
+| 🚀 CI/CD | Jenkins, GitHub Actions, GitLab CI | ⭐⭐⭐⭐⭐ |
+| 📊 Monitoring | Prometheus, Grafana, ELK Stack | ⭐⭐⭐⭐☆ |
+| 🔥 Version Control | Git, GitHub, GitLab | ⭐⭐⭐⭐⭐ |
+| 🖥️ OS | Linux, Ubuntu, Amazon Linux, CentOS | ⭐⭐⭐⭐⭐ |
+| 🐍 Scripting | Bash, Python, PowerShell | ⭐⭐⭐⭐☆ |
+
+</div>
 
 ---
 
@@ -251,37 +329,6 @@ Career Goal:
 [![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)](https://github.com/ChSaiteja123)
 
 </div>
-
----
-# 🚀 DevOps Journey
-
-```text
- Linux
-    │
-    ▼
- Git & GitHub
-    │
-    ▼
- Docker
-    │
-    ▼
- Jenkins & GitHub Actions
-    │
-    ▼
- Terraform (IaC)
-    │
-    ▼
- AWS Cloud
-    │
-    ▼
- Kubernetes (EKS)
-    │
-    ▼
- ArgoCD (GitOps)
-    │
-    ▼
- Monitoring & Observability
-```
 
 ---
 
@@ -494,20 +541,6 @@ Node Exporter
 
 ---
 
-🚀 AWS Cloud Infrastructure
-
-☸ Kubernetes Administration
-
-⚙ Terraform Modules
-
-🔄 GitOps (ArgoCD)
-
-📊 Monitoring & Observability
-
-🔐 DevSecOps Best Practices
-
----
-
 # 📚 Learning Roadmap
 
 <div align="center">
@@ -599,7 +632,7 @@ Node Exporter
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=gradient"/>
 
 <p>
-<em>Made with ❤️ by Sai Teja | Last Updated: 2024</em>
+<em>Made with ❤️ by Sai Teja | Last Updated: 2026</em>
 </p>
 
 </div>
