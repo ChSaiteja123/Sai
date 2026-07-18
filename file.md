@@ -13,7 +13,8 @@
 </div>
 
 ---
-
+---
+<!--
 
 /* Main heading backgrounds with gradient colors */
 h1 { 
@@ -101,8 +102,9 @@ details summary:hover {
   color: #764ba2;
   transform: translateX(5px);
 }
-
-
+</style>
+-->
+---
 # 💫 About Me
 
 <details>
