@@ -31,7 +31,21 @@ Current Focus:
   - GitHub Actions
   - ArgoCD
   - Linux
+╔══════════════════════════════════════════════╗
+          🚀 Sai Teja
 
+      DevOps Engineer
+
+ AWS • Kubernetes • Terraform
+
+ Docker • Jenkins • GitHub Actions
+
+     Linux • Automation
+
+ Automate Everything | Deploy Anywhere
+
+      Monitor Continuously
+╚══════════════════════════════════════════════╝
 Career Goal:
   Build secure, scalable and automated cloud infrastructure.
 ```
